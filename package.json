@@ -1,0 +1,15 @@
+{
+  "name": "basic_info_site",
+  "version": "1.0.0",
+  "description": "A project meant to test my knowledge with NodeJS. This was made while following [The Odin Project](https://www.theodinproject.com/lessons/nodejs-basic-informational-site) curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
